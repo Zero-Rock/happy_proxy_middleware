@@ -1,0 +1,6 @@
+test/
+jest.config.js
+.huskyrc
+babel.config.js
+tsconfig.json
+tslint.json

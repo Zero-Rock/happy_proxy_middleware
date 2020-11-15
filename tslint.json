@@ -1,0 +1,16 @@
+{
+  "extends": ["tslint:recommended"],
+  "jsRules": {},
+  "rules": {
+    "no-console": false,
+    "quotemark": [true, "single"],
+    "no-magic-numbers": [true, -1, 0, 1, 2],
+    "one-line": false
+  },
+  "linterOptions": {
+    "exclude": [
+      "node_modules/**"
+    ]
+  },
+  "rulesDirectory": []
+}

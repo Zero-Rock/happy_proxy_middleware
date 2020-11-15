@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "noImplicitAny": false,
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "paths": {
+      "src/*": ["./src/*"]
+    }
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
