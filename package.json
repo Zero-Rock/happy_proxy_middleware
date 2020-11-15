@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kivamobius/happy_proxy_middleware.git"
+    "url": "git@github.com:Zero-Rock/happy_proxy_middleware.git"
   },
   "keywords": [
     "dev-proxy"
